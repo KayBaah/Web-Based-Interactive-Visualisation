@@ -1,0 +1,801 @@
+{
+    "id": "",
+"children": [
+{
+    "id": "China",
+    "Profit": 12744,
+    "children": [
+        {
+            "id": "Gansu",
+            "Profit":1603,
+            "children": [
+                {
+                    "id": "Suzhou",
+                    "Profit": 1603 
+                }
+            ]
+                
+        },
+        {
+            "id": "Shanghai",
+            "Profit":1538,
+            "children": [
+            {
+                  "id":"Shanghai",
+                  "Profit":1538
+            }
+            ]
+        },
+        {
+            "id":"Shandong",
+            "Profit":1463,
+            "children":[
+                {
+                    "id":"Qingdao",
+                    "Profit":1463
+                }
+            ]
+        },
+        {
+            "id": "Inner Mongolia",
+            "Profit":1341,
+            "children":[
+                {
+                    "id":"Jining",
+                    "Profit":1341
+                }
+            ]
+        },
+        {
+            "id": "Beijing",
+            "Profit":1221,
+            "children":[
+                {
+                    "id":"Beijing",
+                    "Profit":1221
+                }
+            ]
+        },
+        {
+            "id": "Sichuan",
+            "Profit":1184,
+            "children":[
+                {
+                    "id":"Nanchong",
+                    "Profit":1184
+                }
+            ]
+        },
+        {
+            "id": "Shandong",
+            "Profit":1135,
+            "children":[
+                {
+                    "id":"Liaocheng",
+                    "Profit":1135
+                }
+            ]
+        },
+        {
+            "id":"Fujian",
+            "Profit":1098,
+            "children":[
+                {
+                    "id":"Luoyang",
+                    "Profit":1098
+                }
+            ]
+        },
+        {
+            "id":"Liaoning",
+            "Profit":1081,
+            "children":[
+                {
+                    "id":"Fengcheng",
+                    "Profit":1081
+                }
+            ]
+        },
+        {
+            "id":"Jilin",
+            "Profit":1080,
+            "children":[
+                {
+                    "id":"Changchun",
+                    "Profit":1080
+                }
+            ]
+        }
+    ]
+
+},
+{
+    "id": "USA",
+    "Profit":44729,
+    "children":[
+        {
+            "id":"Indiana",
+            "Profit":8400,
+            "children":[
+                {
+                    "id":"Lafayette",
+                    "Profit": 8400
+                }
+            ]
+        },
+        {
+            "id": "Washington",
+            "Profit":6720,
+            "children":[
+                {
+                    "id": "Seattle",
+                    "Profit":6720
+                }
+            ]
+        },
+        {
+            "id": "Delaware",
+            "Profit":5040,
+            "children":[
+                {
+                    "id": "Newark",
+                    "Profit": 5040
+                }
+            ]
+        },
+        {
+            "id":"Michigan",
+            "Profit":4946,
+            "children":[
+                {
+                    "id":"Detroit",
+                    "Profit":4946
+                }
+            ]
+        },
+        {
+            "id":"Minnesota",
+            "Profit":4630,
+            "children":[
+                {
+                    "id": "Minneapolis",
+                    "Profit":4630
+                }
+            ]
+        },
+        {
+            "id":"New York",
+            "Profit":3920,
+            "children":[
+                {
+                    "id": "New York City",
+                    "Profit":3920
+                }
+            ]
+        },
+        {
+            "id": "Georgia",
+            "Profit":3177,
+            "children":[
+                {
+                    "id":"Atlanta",
+                    "Profit":3177
+                }
+            ]
+        },
+        {
+            "id": "Virginia",
+            "Profit":2800,
+            "children":[
+                {
+                    "id":"Arlington",
+                    "Profit":2800
+                }
+            ]
+        },
+        {
+            "id":"Rhode Island",
+            "Profit":2592,
+            "children":[
+                {
+                    "id":"Providence",
+                    "Profit":2592
+                }
+            ]
+        },
+        {
+            "id":"Michigan",
+            "Profit":2504,
+            "children":[
+                {
+                    "id":"Jackson",
+                    "Profit":2504
+                }
+            ]
+        }
+    ]
+},
+{
+"id": "Spain",
+"Profit":10156,
+"children":[
+    {
+        "id":"Galicia",
+        "Profit":2476,
+        "children":[
+            {
+                "id":"Lugo",
+                "Profit": 2476
+            }
+        ]
+    },
+    {
+        "id": "Basque Country",
+        "Profit":2766,
+        "children":[
+            {
+                "id": "Barakaldo",
+                "Profit":1470
+            },
+            {
+                "id": "San Sebastian",
+                "Profit":1296
+            }
+        ]
+    },
+    {
+        "id": "Madrid",
+        "Profit":1445,
+        "children":[
+            {
+                "id": "Madrid",
+                "Profit": 1445
+            }
+        ]
+    },
+    {
+        "id":"Andalusía",
+        "Profit":1439,
+        "children":[
+            {
+                "id":"Seville",
+                "Profit":1439
+            }
+        ]
+    },
+    {
+        "id":"Asturias",
+        "Profit":1041,
+        "children":[
+            {
+                "id": "Oviedo",
+                "Profit":1041
+            }
+        ]
+    },
+    {
+        "id":"Cast-La Mancha",
+        "Profit":989,
+        "children":[
+            {
+                "id": "Puertollano",
+                "Profit":989
+            }
+        ]
+    }
+]  
+},
+{
+"id": "India",
+"Profit":13876,
+"children":[
+    {
+        "id":"Bihar",
+        "Profit":1440,
+        "children":[
+            {
+                "id":"Aurangabad",
+                "Profit":1440
+            }
+        ]
+    },
+    {
+        "id": "Chhattisgarh",
+        "Profit":2818,
+        "children":[
+            {
+                "id": "Kota",
+                "Profit":2818
+            }
+        ]
+    },
+    {
+        "id": "Kerala",
+        "Profit":2097,
+        "children":[
+            {
+                "id": "Thiruvanan",
+                "Profit": 2097
+            }
+        ]
+    },
+    {
+        "id":"Haryana",
+        "Profit":1268,
+        "children":[
+            {
+                "id":"Gorakhpur",
+                "Profit":1268
+            }
+        ]
+    },
+    {
+        "id":"Jam and Kash",
+        "Profit":1423,
+        "children":[
+            {
+                "id": "Srinagar",
+                "Profit":1423
+            }
+        ]
+    },
+    {
+        "id":"Karnataka",
+        "Profit":1341,
+        "children":[
+            {
+                "id": "Mangalore",
+                "Profit":1341
+            }
+        ]
+    },
+    {
+        "id": "Jharkhand",
+        "Profit":1253,
+        "children":[
+            {
+                "id":"Jamshedpur",
+                "Profit":1253
+            }
+        ]
+    },
+    {
+        "id": "Tamil Nadu",
+        "Profit":1135,
+        "children":[
+            {
+                "id":"Tiruppur",
+                "Profit":1155
+            }
+        ]
+    },
+    {
+        "id": "Rajasthan",
+        "Profit":1081,
+        "children":[
+            {
+                "id":"Bhilwara",
+                "Profit":1081
+            }
+        ]
+    }
+]    
+},
+{
+"id": "Germany",
+"Profit":10649,
+"children":[
+    {
+        "id":"North Rhine-West",
+        "Profit":2096,
+        "children":[
+            {
+                "id":"Krefeld",
+                "Profit":966
+            },
+            {
+                "id":"Cologne",
+                "Profit":1130
+            }
+        ]
+    },
+    {
+        "id": "Berlin",
+        "Profit":1112,
+        "children":[
+            {
+                "id": "Berlin",
+                "Profit": 1112
+            }
+        ]
+    },
+    {
+        "id": "Lower Saxony",
+        "Profit":1151,
+        "children":[
+            {
+                "id": "Celle",
+                "Profit": 1151
+            }
+        ]
+    },
+    {
+        "id":"Hesse",
+        "Profit":891,
+        "children":[
+            {
+                "id":"Frankfurt",
+                "Profit":891
+            }
+        ]
+    },
+    {
+        "id":"Saxony",
+        "Profit":1364,
+        "children":[
+            {
+                "id": "Leipzig",
+                "Profit":1364
+            }
+        ]
+    },
+    {
+        "id":"Thuringia",
+        "Profit":1094,
+        "children":[
+            {
+                "id": "Weimar",
+                "Profit":1094
+            }
+        ]
+    },
+    {
+        "id": "Bremen",
+        "Profit":1042,
+        "children":[
+            {
+                "id":"Bremen",
+                "Profit":1042
+            }
+        ]
+    },
+    {
+        "id":"Rhine-Palati",
+        "Profit":977,
+        "children":[
+            {
+                "id":"Trier",
+                "Profit":977
+            }
+        ]
+    },
+    {
+        "id":"Bavaria",
+        "Profit":922,
+        "children":[
+            {
+                "id":"Regensburg",
+                "Profit":922
+            }
+        ]
+    }
+] 
+},
+{
+"id": "France",
+"Profit":10400,
+"children":[
+    {
+        "id":"Rhône-Alpes",
+        "Profit":921,
+        "children":[
+            {
+                "id":"Lyon",
+                "Profit": 921
+            }
+        ]
+    },
+    {
+        "id": "Ile-de-France",
+        "Profit":3027,
+        "children":[
+            {
+                "id": "Puteaux",
+                "Profit": 1164
+            },
+            {
+                "id":"Paris",
+                "Profit":1019
+            },
+            {
+                "id": "Guyancourt",
+                "Profit": 844
+            }
+        ]
+    },
+    {
+        "id": "Côte d'Azur",
+        "Profit":2442,
+        "children":[
+            {
+                "id": "Marseille",
+                "Profit": 924
+            },
+            {
+                "id":"Nice",
+                "Profit":1518
+            }
+        ]
+    },
+    {
+        "id":"Midi-Pyrénées",
+        "Profit":1868,
+        "children":[
+            {
+                "id":"Muret",
+                "Profit":1868
+            }
+        ]
+    },
+    {
+        "id":"Alsace",
+        "Profit":1189,
+        "children":[
+            {
+                "id": "Mulhouse",
+                "Profit":1189
+            }
+        ]
+    },
+    {
+        "id":"Poitou-Charente",
+        "Profit":953,
+        "children":[
+            {
+                "id": "Poitiers",
+                "Profit":953
+            }
+        ]
+    }
+]   
+},
+{
+"id": "El Salvador",
+"Profit":3375,
+"children":[
+    {
+        "id":"Sonsonate",
+        "Profit":528,
+        "children":[
+            {
+                "id":"Sonsonate",
+                "Profit": 528
+            }
+        ]
+    },
+    {
+        "id": "San Salvador",
+        "Profit":2847,
+        "children":[
+            {
+                "id": "San Salvador",
+                "Profit": 1313
+            },
+            {
+                "id":"Soyapango",
+                "Profit":526
+            },
+            {
+                "id":"Mejicanos",
+                "Profit": 512
+            },
+            {
+                "id":"Ilopango",
+                "Profit": 496
+            }
+        ]
+    }
+]  
+},
+{
+"id": "Australia",
+"Profit":10971,
+"children":[
+    {
+        "id":"Victoria",
+        "Profit":1202,
+        "children":[
+            {
+                "id":"Melbourne",
+                "Profit": 1202
+            }
+        ]
+    },
+    {
+        "id": "New South Wales",
+        "Profit":3219,
+        "children":[
+            {
+                "id": "Sydney",
+                "Profit": 2317
+            },
+            {
+                "id":"Newcastle",
+                "Profit":902
+            }
+        ]
+    },
+    {
+        "id": "Queensland",
+        "Profit": 2564,
+        "children":[
+            {
+                "id": "Brisbane",
+                "Profit": 920
+            },
+            {
+                "id":"Townsville",
+                "Profit":1644
+            }
+        ]
+    },
+    {
+        "id":"New South Wales",
+        "Profit":923,
+        "children":[
+            {
+                "id":"Goulburn",
+                "Profit":923
+            }
+        ]
+    },
+    {
+        "id":"Western Australia",
+        "Profit":3063,
+        "children":[
+            {
+                "id": "Geraldton",
+                "Profit":1164
+            },
+            {
+                "id": "Kwinana",
+                "Profit": 957
+            },
+            {
+                "id": "Mandurah",
+                "Profit": 942
+            }
+        ]
+    }
+]  
+},
+{
+"id": "UK",
+"Profit":15768,
+"children":[
+    {
+        "id":"Scotland",
+        "Profit":1898,
+        "children":[
+            {
+                "id":"Edinburgh",
+                "Profit": 1898
+            }
+        ]
+    },
+    {
+        "id": "England",
+        "Profit":13870,
+        "children":[
+            {
+                "id": "Blackpool",
+                "Profit": 1528
+            },
+            {
+                "id":"Luton",
+                "Profit":2461
+            },
+            {
+                "id":"Stockton-on-Tees",
+                "Profit": 2071
+            },
+            {
+                "id":"London",
+                "Profit": 1759
+            },
+            {
+                "id":"Harrogate",
+                "Profit": 1425
+            },
+            {
+                "id": "Burnley",
+                "Profit": 1420
+            },
+            {
+                "id": "Sunderland",
+                "Profit": 1216
+            },
+            {
+                "id": "West Bromwich",
+                "Profit": 1990
+            }
+        ]
+    }
+]   
+},
+{
+"id": "Mexico",
+"Profit":7256,
+"children":[
+    {
+        "id":"Distrito Federal",
+        "Profit":1897,
+        "children":[
+            {
+                "id":"Mexico City",
+                "Profit": 1036
+            },
+            {
+                "id": "Azcapotzalco",
+                "Profit": 861
+            }
+        ]
+    },
+    {
+        "id": "Guanajuato",
+        "Profit":898,
+        "children":[
+            {
+                "id": "León",
+                "Profit": 898
+            }
+        ]
+    },
+    {
+        "id": "México",
+        "Profit":1788,
+        "children":[
+            {
+                "id": "Metepec",
+                "Profit": 1036
+            },
+            {
+                "id":"Tlalnepantla",
+                "Profit": 752
+            }
+        ]
+    },
+    {
+        "id":"Veracruz",
+        "Profit":999,
+        "children":[
+            {
+                "id":"Rica de Hidalgo",
+                "Profit":999
+            }
+        ]
+    },
+    {
+        "id":"Michoacán",
+        "Profit":888,
+        "children":[
+            {
+                "id": "Morelia",
+                "Profit": 888
+            }
+        ]
+    },
+    {
+        "id": "Sonora",
+        "Profit":786,
+        "children":[
+            {
+                "id":"Guaymas",
+                "Profit": 786
+            }
+        ]
+    }
+]   
+}
+]
+}
